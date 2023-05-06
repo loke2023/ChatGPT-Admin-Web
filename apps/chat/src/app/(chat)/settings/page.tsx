@@ -130,7 +130,7 @@ export default function Settings() {
             </select>
           </ListItem>
 
-          <SettingItem title={Locale.Settings.Lang.Name}>
+          {/* <SettingItem title={Locale.Settings.Lang.Name}>
             <div className="">
               <select
                 value={getLang()}
@@ -147,9 +147,9 @@ export default function Settings() {
                 </option>
               </select>
             </div>
-          </SettingItem>
+          </SettingItem> */}
 
-          <SettingItem title={Locale.Settings.TightBorder}>
+          {/* <SettingItem title={Locale.Settings.TightBorder}>
             <input
               type="checkbox"
               checked={tightBorder}
@@ -160,7 +160,7 @@ export default function Settings() {
                 // );
               }}
             ></input>
-          </SettingItem>
+          </SettingItem> */}
         </List>
 
         <List>
@@ -203,7 +203,7 @@ export default function Settings() {
             ></input>
           </SettingItem>
         </List>
-
+{/* 
         <List>
           <SettingItem title={Locale.Settings.Model}>
             <select
@@ -279,7 +279,7 @@ export default function Settings() {
               }}
             ></input>
           </SettingItem>
-        </List>
+        </List> */}
       </div>
     </>
   );

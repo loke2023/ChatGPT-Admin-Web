@@ -1,7 +1,7 @@
 const cn = {
   Index: {
     Title: "ChatGPT (GPT-4)",
-    SubTitle: "欢迎关注微信公众号：",
+    SubTitle: "欢迎关注，持续更新中...",
     Submit: "提交",
     Login: "登录",
     Register: "注册",
