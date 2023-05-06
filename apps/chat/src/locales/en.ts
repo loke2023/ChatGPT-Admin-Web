@@ -2,8 +2,8 @@ import type { LocaleType } from "./index";
 
 const en: LocaleType = {
   Index: {
-    Title: "ChatGPT (GPT-4)",
-    SubTitle: "Follow WeChat OA:",
+    Title: "KelvinAI (GPT-4)",
+    SubTitle: "Welcome, continuing to update...v1.1.0",
     Submit: "提交",
     Login: "登录",
     Register: "注册",
