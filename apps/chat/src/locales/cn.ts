@@ -1,6 +1,6 @@
 const cn = {
   Index: {
-    Title: "KelvinAI (GPT-4)",
+    Title: "KelvinAI (GPT-3.5)",
     SubTitle: "欢迎关注，持续更新中...v1.1.0",
     Submit: "提交",
     Login: "登录",
