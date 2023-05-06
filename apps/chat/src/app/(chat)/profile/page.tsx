@@ -137,19 +137,19 @@ export default function Profile() {
             <div>{email}</div>
           </ProfileItem>
 
-          <ProfileItem
+          {/* <ProfileItem
             title={Locale.Profile.Plan.Title}
             subTitle="切换计划来升级"
           >
             <>
-              {/* <button
+              <button
                 className={styles["copy-button"]}
                 onClick={() => router.push("/pricing")}
               >
                 {Locale.Profile.Upgrade}
-              </button> */}
+              </button>
             </>
-          </ProfileItem>
+          </ProfileItem> */}
         </List>
 
         <List>
