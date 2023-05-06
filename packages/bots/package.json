@@ -10,9 +10,9 @@
     "gpt-3.5-turbo",
     "gpt-4"
   ],
-  "homepage": "https://github.com/AprilNEA/ChatGPT-Admin-Web",
+  "homepage": "''",
   "bugs": {
-    "url": "https://github.com/AprilNEA/ChatGPT-Admin-Web/issues",
+    "url": "''/issues",
     "email": "github@sku.moe"
   },
   "license": "MIT",
@@ -22,7 +22,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/AprilNEA/ChatGPT-Admin-Web",
+    "url": "''",
     "directory": "packages/bots"
   },
   "main": "dist/index.js",

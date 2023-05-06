@@ -6,9 +6,9 @@
     "chatgpt",
     "webui"
   ],
-  "homepage": "https://github.com/AprilNEA/ChatGPT-Admin-Web",
+  "homepage": "''",
   "bugs": {
-    "url": "https://github.com/AprilNEA/ChatGPT-Admin-Web/issues",
+    "url": "''/issues",
     "email": "github@sku.moe"
   },
   "license": "MIT",
@@ -18,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AprilNEA/ChatGPT-Admin-Web"
+    "url": "git+''"
   },
   "workspaces": [
     "apps/*",

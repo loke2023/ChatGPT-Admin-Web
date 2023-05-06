@@ -6,7 +6,7 @@ import { Analytics } from "@vercel/analytics/react";
 import { AuthProvider } from "@/app/provider";
 
 export const metadata = {
-  title: "ChatGPT",
+  title: "KelvinAI",
   description: "Your personal ChatGPT Bot.",
 };
 

@@ -2,7 +2,7 @@ import type { LocaleType } from "./index";
 
 const en: LocaleType = {
   Index: {
-    Title: "KelvinAI (GPT-4)",
+    Title: "KelvinAI (GPT-3.5)",
     SubTitle: "Welcome, continuing to update...v1.1.0",
     Submit: "提交",
     Login: "登录",

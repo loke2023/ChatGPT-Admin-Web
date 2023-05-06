@@ -6,7 +6,7 @@ import "@/styles/prism.scss";
 import { Sidebar } from "@/components/sidebar";
 
 export const metadata = {
-  title: "ChatGPT",
+  title: "KelvinAI",
   description: "Your personal ChatGPT Bot.",
 };
 

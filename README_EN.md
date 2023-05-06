@@ -70,6 +70,6 @@ secondary development.
 This repository is re-published under the [MIT license](./LICENSE-MIT) based on
 the [Yidadaa's repository](https://github.com/Yidadaa/ChatGPT-Next-Web).
 
-Before [b1f27aa](https://github.com/AprilNEA/ChatGPT-Admin-Web/commit/b1f27aaf93c88c088db6bae5ac8163e2ffe991bd) commit
+Before [b1f27aa](''/commit/b1f27aaf93c88c088db6bae5ac8163e2ffe991bd) commit
 you should
 follow: [996 License](./LICENSE-996)
