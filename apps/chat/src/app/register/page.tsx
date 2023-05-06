@@ -171,7 +171,7 @@ export default function Register() {
               onClick={handleSendVerification}
               disabled={submitting}
             >
-              {isSending ? "Already Send to Email" : "Get Code"}
+              {isSending ? "已发送" : "发送"}
             </button>
           </div>
         </div>
