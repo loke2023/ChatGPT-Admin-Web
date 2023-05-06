@@ -123,12 +123,12 @@ export function Sidebar({ children }: { children: React.ReactNode }) {
               />
             </div>
             {/*TODO add about us*/}
-            <div className={styles["sidebar-action"]}>
+            {/* <div className={styles["sidebar-action"]}>
               <IconButton
                 icon={<AnnouncementIcon />}
                 onClick={showAnnouncement}
               />
-            </div>
+            </div> */}
           </div>
           <div>
             <IconButton

@@ -288,11 +288,11 @@ export function Chat() {
               onClick={() => setSideBarOpen(true)}
             />
           </div>
-          <div className={styles["window-action-button"]}>
+          {/* <div className={styles["window-action-button"]}>
             <Link href="/pricing">
               <IconButton icon={<span>🎁</span>} bordered />
             </Link>
-          </div>
+          </div> */}
           <div className={styles["window-action-button"]}>
             <Link href="/profile">
               <IconButton

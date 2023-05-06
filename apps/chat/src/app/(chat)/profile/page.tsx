@@ -142,12 +142,12 @@ export default function Profile() {
             subTitle="切换计划来升级"
           >
             <>
-              <button
+              {/* <button
                 className={styles["copy-button"]}
                 onClick={() => router.push("/pricing")}
               >
                 {Locale.Profile.Upgrade}
-              </button>
+              </button> */}
             </>
           </ProfileItem>
         </List>
