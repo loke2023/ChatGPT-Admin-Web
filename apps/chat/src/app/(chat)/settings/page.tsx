@@ -203,7 +203,7 @@ export default function Settings() {
             ></input>
           </SettingItem>
         </List>
-{/* 
+{ 
         <List>
           <SettingItem title={Locale.Settings.Model}>
             <select
@@ -222,7 +222,7 @@ export default function Settings() {
               ))}
             </select>
           </SettingItem>
-
+{/* 
           <SettingItem
             title={Locale.Settings.Temperature.Title}
             subTitle={Locale.Settings.Temperature.SubTitle}
@@ -278,8 +278,8 @@ export default function Settings() {
                 );
               }}
             ></input>
-          </SettingItem>
-        </List> */}
+          </SettingItem> */}
+        </List> }
       </div>
     </>
   );

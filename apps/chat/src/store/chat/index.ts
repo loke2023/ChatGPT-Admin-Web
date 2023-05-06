@@ -36,10 +36,10 @@ export const ALL_MODELS = [
     name: "gpt-3.5-turbo",
     available: true,
   },
-  {
-    name: "newbing",
-    available: true,
-  },
+  // {
+  //   name: "newbing",
+  //   available: true,
+  // },
 ];
 
 export function isValidModel(name: string) {
