@@ -203,7 +203,7 @@ export default function Settings() {
             ></input>
           </SettingItem>
         </List>
-{ 
+  
         <List>
           <SettingItem title={Locale.Settings.Model}>
             <select
